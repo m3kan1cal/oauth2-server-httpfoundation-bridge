@@ -95,3 +95,5 @@ Contact
 -------
 
 Please contact Brent Shaffer (bshafs <at> gmail <dot> com) for more information
+
+This is a forked version.
